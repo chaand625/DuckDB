@@ -1,0 +1,2 @@
+CREATE TABLE WorkLogs AS
+    SELECT * FROM "22 June 2026.csv";
