@@ -8,4 +8,4 @@ CREATE TABLE WorkLogs (
     Duration VARCHAR,
     Attachments VARCHAR    
 );
-COPY ontime FROM "22 June 2026.csv";
+COPY WorkLogs FROM "22 June 2026.csv";
