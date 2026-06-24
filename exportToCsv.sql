@@ -1,0 +1,1 @@
+COPY WorkLogs TO "my_worklogs.csv" (HEADER, DELIMITER ',');
